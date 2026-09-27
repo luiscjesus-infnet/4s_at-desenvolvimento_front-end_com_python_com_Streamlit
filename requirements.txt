@@ -1,0 +1,10 @@
+streamlit
+statsbombpy
+mplsoccer
+matplotlib
+seaborn
+pandas
+altair
+plotly
+folium
+streamlit-folium
