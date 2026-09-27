@@ -38,4 +38,4 @@ streamlit run app.py
 ## Acesse online!
 Fiz o deploy no Streamlit Community Cloud. 
 Você pode acessar o dashboard funcionando através desse link: 
-[Link da Aplicação no Streamlit (https://github.com/luiscjesus-infnet/4s_at-desenvolvimento_front-end_com_python_com_Streamlit.git)]()
+[Link da Aplicação no Streamlit](https://4sat-desenvolvimentofront-endcompythoncomapp-lcj.streamlit.app)
